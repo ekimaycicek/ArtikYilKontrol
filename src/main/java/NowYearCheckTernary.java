@@ -1,4 +1,4 @@
-public class ArtikYilKontroluTernary {
+public class NowYearCheckTernary {
 
     public static void main(String[] args) {
 
